@@ -14,7 +14,7 @@
 
 import numpy as np
 
-def logbin(data, scale = 1., zeros = False):
+def logbin(data, scale = 1.2, zeros = False):
     """
     logbin(data, scale = 1., zeros = False)
 
